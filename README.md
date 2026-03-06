@@ -55,10 +55,10 @@ Supporting modules:
 This project was developed as a **group FPGA design project**.
 
 Team members:
-- Manasi Saxena
-- Malhar Salunkhe
-- Muskan Kumari
-- Nethi Pratheekshan
+- Manasi Saxena– Fall detection subsystem
+- Malhar Salunkhe– Accelerometer interface
+- Muskan Kumari– Control FSM
+- Nethi Pratheekshan– Display and I/O modules
 
 ---
 
